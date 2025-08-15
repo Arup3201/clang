@@ -1,0 +1,3 @@
+This is a note to track my progress in C language.
+
+This file is used for testing the read.c file.
